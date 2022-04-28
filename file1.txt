@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a conflict from main no 2
+=======
+this is a conflict from conflict
+>>>>>>> branch 'conflict' of https://github.com/alexandraborb/conflict.git
